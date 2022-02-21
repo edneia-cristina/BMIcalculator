@@ -1,3 +1,5 @@
+// Isso é uma alteração para estudo de commits
+
 import 'dart:io';
 
 void main() {
